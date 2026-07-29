@@ -1,0 +1,2 @@
+This is content for seamus.txt
+Another line of content.
