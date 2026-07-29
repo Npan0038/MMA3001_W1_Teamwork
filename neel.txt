@@ -1,0 +1,11 @@
+Interesting Things
+  - Using GitHub for the first time and experimenting with it
+  - Using Google Colab for the first time, which I have never seen in another unit
+
+Difficult Things
+  - Using GitHub: Extremely complicated, and there are so many things going on, it's overwhelming sometimes
+  - Understanding the workshop code, especially when going over the !git commands and subsequent code
+
+
+
+
